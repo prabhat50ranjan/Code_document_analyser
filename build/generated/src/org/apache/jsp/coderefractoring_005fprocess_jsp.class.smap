@@ -1,0 +1,13 @@
+SMAP
+coderefractoring_005fprocess_jsp.java
+JSP
+*S JSP
+*F
++ 0 coderefractoring_process.jsp
+coderefractoring_process.jsp
+*L
+1,4:54
+8,29:57
+87,88:137
+174,18:225
+*E

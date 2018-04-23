@@ -1,0 +1,3 @@
+edu.ucla.sspace.hadoop.WordCooccurrenceCountingJob$FileIterator
+edu.ucla.sspace.hadoop.WordCooccurrenceCountingJob
+edu.ucla.sspace.hadoop.WordCooccurrenceCountingJob$WordCooccurrenceIterator

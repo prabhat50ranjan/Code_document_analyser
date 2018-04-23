@@ -1,0 +1,13 @@
+SMAP
+codesmell_005fprocess_jsp.java
+JSP
+*S JSP
+*F
++ 0 codesmell_process.jsp
+codesmell_process.jsp
+*L
+5,4:49
+12,16:52
+78,59:119
+136,13:178
+*E
